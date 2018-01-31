@@ -4,6 +4,11 @@ body {
 	font-family: roboto;
 	font-weight: 300;
 }
+
+#date {
+	color: black;
+}
+
 nav {
 	background: none repeat scroll 0 0 #162b4d;
 	position: relative;
